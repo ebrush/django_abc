@@ -1,7 +1,7 @@
 # django_abc
 
 ## what it does
-With Django alone, you cannot call a subclass method on objects retrieved using a base class's manager. With django_abc, you can easily call the subclass instance's method without manually casting. This follows the expected polymorphic behavior like classic object orinted programming.
+With Django alone, you cannot directly call a subclass method on objects retrieved using a base class's manager. With django_abc, you can easily call the subclass instance's method without manually casting. This follows the expected polymorphic behavior as with classic object oriented programming.
 
 ## installation
 
