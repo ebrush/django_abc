@@ -25,7 +25,7 @@ setup(
         'Programming Language :: Python :: 3.5',
         'Programming Language :: Python :: 3.6',
     ],
-    keywords='timing timer decorators stopwatch',
+    keywords='django decorators inheritance',
     packages=find_packages(include=['django_abc']),
     project_urls={
         'Bug Reports': 'https://github.com/ebrush/django_abc/issues',

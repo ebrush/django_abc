@@ -5,7 +5,7 @@ With Django alone, you cannot directly call a subclass method on objects retriev
 
 ## installation
 
-`python -m pip install django_abc`
+`pip install django_abc`
 
 ## using the decorators
 
